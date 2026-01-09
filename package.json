@@ -21,7 +21,7 @@
     "countdown": "^2.6.0",
     "google-translate": "3.0.0",
     "youtube-search": "^1.1.4",
-    "screenshot-desktop": "1.10.0",
+    "screenshot-desktop": "1.15.2",
     "node-gyp": "^6.1.0",
     "node-opus": "^0.3.3",
     "screenshot": "0.1.0",
